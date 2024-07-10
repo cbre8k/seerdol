@@ -11,8 +11,8 @@ libs = ["dependencies"]
 [dependencies]
 forge-std = { version = "1.9.1", url = "https://github.com/foundry-rs/forge-std/archive/refs/tags/v1.9.1.zip" }
 foundry-kit = { version = "1.0.0", url = "https://github.com/cgccld/foundry-kit/archive/refs/tags/v.1.0.0.zip" }
-"@openzeppelin-contracts" = { version = "5.0.2", url = "https://github.com/OpenZeppelin/openzeppelin-contracts/archive/refs/tags/v5.0.2.zip" }
-"@openzeppelin-contracts-upgradeable" = { version = "5.0.2", url = "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/archive/refs/tags/v5.0.2.zip" }
+"@openzeppelin-contracts" = "5.0.2"
+"@openzeppelin-contracts-upgradeable" = "5.0.2"
 
 [etherscan]
 # testnet
